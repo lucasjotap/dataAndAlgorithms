@@ -36,7 +36,7 @@ print(compare_c)
 
 # To show a 'lesser than' value we have <
 def comparisonB(args, kwargs):
-    """Show a greater value"""
+    """Show a lesser value"""
     first = args
     second = kwargs
 

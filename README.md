@@ -1,1 +1,1 @@
- dataAndALgorithms
+ dataAndAlgorithms

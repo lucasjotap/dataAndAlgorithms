@@ -9,7 +9,7 @@ def person():
 
     person_age = current_date - birthday_date
 
-    if (person_age > 18):
+    if (person_age >= 18):
         print("You are %i years-old and can get a driver's license if you wish." % (person_age))
     else:
         print("Your age is %i. You can't get a driver's license yet." % (person_age))

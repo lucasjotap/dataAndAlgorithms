@@ -1,7 +1,6 @@
 # Develop an alorithm that requests your birthday and the current year
 # Display the age result on the console
 
-
 def person():
     """Define a person's age"""
     # Requesting input

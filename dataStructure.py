@@ -1,5 +1,4 @@
 # The most basic form of a data structure is a list
-
 def create_list(args, kwargs):
     """Function for data structure exercise"""
 

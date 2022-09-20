@@ -1,7 +1,5 @@
 # bonus 20% for ppl who are working 5 years +
 # everyone else gets 10% only.
-
-
 def bonus():
     """Define a bonus model for employees"""
 
